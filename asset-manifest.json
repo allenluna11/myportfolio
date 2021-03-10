@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/allenluna11/myportfolio.git/static/css/main.ce5fca5f.chunk.css",
+    "main.js": "/allenluna11/myportfolio.git/static/js/main.271c32b8.chunk.js",
+    "main.js.map": "/allenluna11/myportfolio.git/static/js/main.271c32b8.chunk.js.map",
+    "runtime-main.js": "/allenluna11/myportfolio.git/static/js/runtime-main.383ee7e6.js",
+    "runtime-main.js.map": "/allenluna11/myportfolio.git/static/js/runtime-main.383ee7e6.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/allenluna11/myportfolio.git/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.32e8b4f3.chunk.js": "/allenluna11/myportfolio.git/static/js/2.32e8b4f3.chunk.js",
+    "static/js/2.32e8b4f3.chunk.js.map": "/allenluna11/myportfolio.git/static/js/2.32e8b4f3.chunk.js.map",
+    "index.html": "/allenluna11/myportfolio.git/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/allenluna11/myportfolio.git/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.ce5fca5f.chunk.css.map": "/allenluna11/myportfolio.git/static/css/main.ce5fca5f.chunk.css.map",
+    "static/js/2.32e8b4f3.chunk.js.LICENSE.txt": "/allenluna11/myportfolio.git/static/js/2.32e8b4f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.383ee7e6.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.32e8b4f3.chunk.js",
+    "static/css/main.ce5fca5f.chunk.css",
+    "static/js/main.271c32b8.chunk.js"
+  ]
+}
